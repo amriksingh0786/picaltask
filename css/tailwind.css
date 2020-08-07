@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+@responsive {
+    .bgfooter{
+        background-color: #4AA396;
+    }
+    .footeracolor{
+        font-color: #7FD4CC;
+    }
+  }
+
