@@ -14452,6 +14452,10 @@ video {
   background-color: rgb(74,163,150);
 }
 
+.border-b {
+  border-bottom-width: 2px gray;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
@@ -28282,6 +28286,10 @@ video {
 
   .sm\:btncolornews{
     background-color: rgb(74,163,150);
+  }
+
+  .sm\:border-b {
+    border-bottom-width: 2px gray;
   }
 }
 
@@ -42116,6 +42124,10 @@ video {
   .md\:btncolornews{
     background-color: rgb(74,163,150);
   }
+
+  .md\:border-b {
+    border-bottom-width: 2px gray;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -55949,6 +55961,10 @@ video {
   .lg\:btncolornews{
     background-color: rgb(74,163,150);
   }
+
+  .lg\:border-b {
+    border-bottom-width: 2px gray;
+  }
 }
 
 @media (min-width: 1280px) {
@@ -69781,6 +69797,10 @@ video {
 
   .xl\:btncolornews{
     background-color: rgb(74,163,150);
+  }
+
+  .xl\:border-b {
+    border-bottom-width: 2px gray;
   }
 }
 
