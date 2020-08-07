@@ -14444,6 +14444,14 @@ video {
   font-color: #7FD4CC;
 }
 
+.newsletter{
+  background-color: #86D3CD;
+}
+
+.btncolornews{
+  background-color: rgb(74,163,150);
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
@@ -28266,6 +28274,14 @@ video {
 
   .sm\:footeracolor{
     font-color: #7FD4CC;
+  }
+
+  .sm\:newsletter{
+    background-color: #86D3CD;
+  }
+
+  .sm\:btncolornews{
+    background-color: rgb(74,163,150);
   }
 }
 
@@ -42092,6 +42108,14 @@ video {
   .md\:footeracolor{
     font-color: #7FD4CC;
   }
+
+  .md\:newsletter{
+    background-color: #86D3CD;
+  }
+
+  .md\:btncolornews{
+    background-color: rgb(74,163,150);
+  }
 }
 
 @media (min-width: 1024px) {
@@ -55917,6 +55941,14 @@ video {
   .lg\:footeracolor{
     font-color: #7FD4CC;
   }
+
+  .lg\:newsletter{
+    background-color: #86D3CD;
+  }
+
+  .lg\:btncolornews{
+    background-color: rgb(74,163,150);
+  }
 }
 
 @media (min-width: 1280px) {
@@ -69741,6 +69773,14 @@ video {
 
   .xl\:footeracolor{
     font-color: #7FD4CC;
+  }
+
+  .xl\:newsletter{
+    background-color: #86D3CD;
+  }
+
+  .xl\:btncolornews{
+    background-color: rgb(74,163,150);
   }
 }
 
